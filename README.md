@@ -1,2 +1,2 @@
-# BENKADI
-BENKADI est le nom de ma première entreprise
+# benkadi-global-trade-website
+Site officiel BENKADI GLOBAL TRADE
